@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\Crud004\Crud004\bin\Debug\DbPessoa.mdf
+C:\Users\Aluno\source\repos\Crud004\Crud004\bin\Debug\DbPessoa_log.ldf
+C:\Users\Aluno\source\repos\Crud004\Crud004\bin\Debug\Crud004.exe.config
+C:\Users\Aluno\source\repos\Crud004\Crud004\bin\Debug\Crud004.exe
+C:\Users\Aluno\source\repos\Crud004\Crud004\bin\Debug\Crud004.pdb
+C:\Users\Aluno\source\repos\Crud004\Crud004\obj\Debug\Crud004.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\Crud004\Crud004\obj\Debug\Crud004.FormPrincipal.resources
+C:\Users\Aluno\source\repos\Crud004\Crud004\obj\Debug\Crud004.Properties.Resources.resources
+C:\Users\Aluno\source\repos\Crud004\Crud004\obj\Debug\Crud004.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\Crud004\Crud004\obj\Debug\Crud004.exe
+C:\Users\Aluno\source\repos\Crud004\Crud004\obj\Debug\Crud004.pdb
